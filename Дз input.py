@@ -38,13 +38,7 @@ print(c)
 #float хранит значения с плавающей запятой, то есть значения, имеющие потенциальные десятичные знаки
 #int хранит только целые значения, т.е. целые числа
 
-import sys
-print(sys.int_info)
-print(type(sys.int_info))
 
-import sys
-print(sys.float_info)
-print(type(sys.float_info))
 
 
 
